@@ -18,10 +18,6 @@
 
 Also: Jetpack Compose, ASP.NET Core, REST API design, CI/CD.
 
-## Currently building
-
-**[Keşfet](https://kesfet.online)**: a photo-driven, editorial city guide covering all 81 provinces of Türkiye. Built with React + TypeScript on the front end and FastAPI + PostgreSQL (Supabase) behind it, and deployed through GitHub Actions to Vercel and Fly.io.
-
 ## Right now
 
 - Going deeper into **Jetpack Compose**, **Flutter** and **ASP.NET Core**
